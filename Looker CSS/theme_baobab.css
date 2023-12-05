@@ -73,7 +73,8 @@ th.headerCell {
 }
 
 .headerCell.measure {
-  background-color: #e4d0bd;
+  background-color: #E40473;
+  color: #ffffff;
   border-left: 1px solid #bdc3c7;
 }
 
