@@ -49,7 +49,7 @@
 .reportTable {
   font-family: Open Sans, Helvetica, Arial, Noto Sans TC, Noto Sans SC,
     sans-serif;
-  color: #f1c232;
+  color: #696969;
   border-collapse: collapse;
   border-spacing: 3px;
   table-layout: fixed;
@@ -63,6 +63,7 @@ th.headerCell {
 
 .headerCell.dimension {
   background-color: #008000;
+  color: #f1c232;
   border-right: 1px solid #bdc3c7;
 }
 
