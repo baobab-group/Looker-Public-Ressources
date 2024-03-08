@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="39.858" viewBox="0 0 44 39.858">
+  <g id="payment_985746" transform="translate(0 -24.1)">
+    <g id="Groupe_26" data-name="Groupe 26" transform="translate(0 32.94)">
+      <g id="Groupe_25" data-name="Groupe 25">
+        <path id="Tracé_72" data-name="Tracé 72" d="M27.429,145.57a5.43,5.43,0,0,0-.539-2.076,5.5,5.5,0,0,0-4.917-3.079c-.074,0-.148,0-.222.005s-.143.008-.214.014h0a5.434,5.434,0,0,0-.566.075L9.849,144.034V126.97A13.74,13.74,0,0,0,0,140.13v9.665a8.2,8.2,0,0,0,8.193,8.193c6.843,0,15.284-6.354,16.907-7.628l.011-.009a5.475,5.475,0,0,0,2.319-4.781Z" transform="translate(0 -126.97)" fill="#e40473"/>
+      </g>
+    </g>
+    <g id="Groupe_28" data-name="Groupe 28" transform="translate(12.427 24.1)">
+      <g id="Groupe_27" data-name="Groupe 27">
+        <path id="Tracé_73" data-name="Tracé 73" d="M174.885,24.1h-29a1.289,1.289,0,0,0-1.289,1.289v7h31.573v-7A1.289,1.289,0,0,0,174.885,24.1Z" transform="translate(-144.601 -24.1)" fill="#e40473"/>
+      </g>
+    </g>
+    <g id="Groupe_30" data-name="Groupe 30" transform="translate(12.427 34.963)">
+      <g id="Groupe_29" data-name="Groupe 29">
+        <path id="Tracé_74" data-name="Tracé 74" d="M144.6,150.5V162l8.063-2.518a8.041,8.041,0,0,1,8.72,4.394q.166.342.3.7h13.2a1.289,1.289,0,0,0,1.289-1.289V150.5Z" transform="translate(-144.601 -150.5)" fill="#e40473"/>
+      </g>
+    </g>
+  </g>
+</svg>
