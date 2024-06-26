@@ -176,6 +176,7 @@ th.headerCell {
   font-style: italic;
   font-weight: bold;
   background: #ffffff;
+  border-top: 0px !important;
 }
 
 .total {
